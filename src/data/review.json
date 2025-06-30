@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Shumeez Van Schalkwyk",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "performanceRating": "Excellent",
+    "attendance": "98%",
+    "projectCompletionRate": "95%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-20",
+    "reviewer": "Sarah Moyo"
+  },
+  {
+    "id": 2,
+    "name": "Kouthar Davids",
+    "role": "HR manager",
+    "department": "HR",
+    "performanceRating": "Good",
+    "attendance": "92%",
+    "projectCompletionRate": "87%",
+    "peerFeedback": "Neutral",
+    "reviewDate": "2025-06-18",
+    "reviewer": "Amir Yusuf"
+  },
+  {
+    "id": 3,
+    "name": "Raeesa Samaai",
+    "role": "Data Analyst",
+    "department": "Data Analytics",
+    "performanceRating": "Outstanding",
+    "attendance": "100%",
+    "projectCompletionRate": "99%",
+    "peerFeedback": "Very Positive",
+    "reviewDate": "2025-06-15",
+    "reviewer": "Layla Adams"
+  },
+  {
+    "id": 4,
+    "name": "Aadam Maroof",
+    "role": " Sales Representitive",
+    "department": "Sales",
+    "performanceRating": "Satisfactory",
+    "attendance": "69%",
+    "projectCompletionRate": "70%",
+    "peerFeedback": "Mixed",
+    "reviewDate": "2025-06-10",
+    "reviewer": "Noor Smith"
+  },
+  {
+    "id": 5,
+    "name": "zainul Moses",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Zara Mahomed"
+  },
+  {
+    "id": 6,
+    "name": "Ubaidullah Abrahams",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Aaliyah Mather"
+  },
+  {
+    "id": 7,
+    "name": "Abubakr Gamiet",
+    "role": "DevOps Engineer",
+    "department": "IT",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Zeenat Leeman"
+  },
+  {
+    "id": 8,
+    "name": "Mariam Adamms",
+    "role": "Content Strategist",
+    "department": "Marketing",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Qasim Isaacs"
+  },
+  {
+    "id": 9,
+    "name": "Ubudullah Aziz",
+    "role": "Accountant",
+    "department": "Finance",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Saadiq Jacobs"
+  },
+  {
+    "id": 5,
+    "name": "Fatima Patel",
+    "role": "Customer support Lead",
+    "department": "Support",
+    "performanceRating": "Excellent",
+    "attendance": "96%",
+    "projectCompletionRate": "93%",
+    "peerFeedback": "Positive",
+    "reviewDate": "2025-06-08",
+    "reviewer": "Ishmaeel Begg"
+  }
+]

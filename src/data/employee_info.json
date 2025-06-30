@@ -1,0 +1,104 @@
+{
+  "employeeInformation": [
+    {
+      "employeeId": 1,
+      "name": "Shumeez Van Schalkwyk",
+      "position": "Software Engineer",
+      "department": "Development",
+      "salary": 70000,
+      "employmentHistory": "Joined in 2015, promoted to Senior in 2018",
+      "contact": "shumeez@moderntech.com",
+      "employmentType": "Full-Time"
+    },
+    {
+      "employeeId": 2,
+      "name": "Kouthar Davids",
+      "position": "HR Manager",
+      "department": "HR",
+      "salary": 80000,
+      "employmentHistory": "Joined in 2013, promoted to Manager in 2017",
+      "contact": "kouthar@moderntech.com",
+      "employmentType": "Full-Time"
+    },
+    {
+      "employeeId": 3,
+      "name": "Raeesa Samaai",
+      "position": "Data Analyst",
+      "department": "Data Analytics",
+      "salary": 55000,
+      "employmentHistory": "Joined in 2018",
+      "contact": "raeesa@moderntech.com",
+      "employmentType": "Part-Time"
+    },
+    {
+      "employeeId": 4,
+      "name": "Aadam Maroof",
+      "position": "Sales Representative",
+      "department": "Sales",
+      "salary": 60000,
+      "employmentHistory": "Joined in 2020",
+      "contact": "aadam@moderntech.com",
+      "employmentType": "Contractor"
+    },
+    {
+      "employeeId": 5,
+      "name": "Zainul Moses",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 58000,
+      "employmentHistory": "Joined in 2019",
+      "contact": "zainul@moderntech.com",
+      "employmentType": "Full-Time"
+    },
+    {
+      "employeeId": 6,
+      "name": "Ubaidullah Abrahams",
+      "position": "UI/UX Designer",
+      "department": "Design",
+      "salary": 65000,
+      "employmentHistory": "Joined in 2016",
+      "contact": "ubaidullah@moderntech.com",
+      "employmentType": "Part-Time"
+    },
+    {
+      "employeeId": 7,
+      "name": "Abubakr Gamiet",
+      "position": "DevOps Engineer",
+      "department": "IT",
+      "salary": 72000,
+      "employmentHistory": "Joined in 2017",
+      "contact": "abubakr@moderntech.com",
+      "employmentType": "Full-Time"
+    },
+    {
+      "employeeId": 8,
+      "name": "Mariam Adamms",
+      "position": "Content Strategist",
+      "department": "Marketing",
+      "salary": 56000,
+      "employmentHistory": "Joined in 2021",
+      "contact": "mariam@moderntech.com",
+      "employmentType": "Contractor"
+    },
+    {
+      "employeeId": 9,
+      "name": "Ubdullah Aziz",
+      "position": "Accountant",
+      "department": "Finance",
+      "salary": 62000,
+      "employmentHistory": "Joined in 2018",
+      "contact": "ubdullah@moderntech.com",
+      "employmentType": "Full-Time"
+    },
+    {
+      "employeeId": 10,
+      "name": "Fatima Patel",
+      "position": "Customer Support Lead",
+      "department": "Support",
+      "salary": 58000,
+      "employmentHistory": "Joined in 2016",
+      "contact": "fatima@moderntech.com",
+      "employmentType": "Part-Time"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+    "payrollData": [
+        {
+            "employeeId": 1,
+            "name": "Shumeez Van Schalkwyk",
+            "userName": "shumeez.van.schalkwyk",
+            "position": "Software Engineer",
+            "department": "Development",
+            "hoursWorked": 160,
+            "leaveDeductions": 8,
+            "finalSalary": 69500
+        },
+        {
+            "employeeId": 2,
+            "name": "Kouthar Davids",
+            "userName": "kouthar.davids",
+            "position": "HR Manager",
+            "department": "HR",
+            "hoursWorked": 150,
+            "leaveDeductions": 10,
+            "finalSalary": 79000
+        },
+        {
+            "employeeId": 3,
+            "name": "Raeesa Samaai",
+            "userName": "raeesa.samaai",
+            "position": "Data Analyst",
+            "department": "Data Analytics",
+            "hoursWorked": 170,
+            "leaveDeductions": 4,
+            "finalSalary": 54800
+        },
+        {
+            "employeeId": 4,
+            "name": "Aadam Maroof",
+            "userName": "aadam.maroof",
+            "position": "Sales Representative",
+            "department": "Sales",
+            "hoursWorked": 165,
+            "leaveDeductions": 6,
+            "finalSalary": 59700
+        },
+        {
+            "employeeId": 5,
+            "name": "Zainul Moses",
+            "userName": "zainul.moses",
+            "position": "Marketing Specialist",
+            "department": "Marketing",
+            "hoursWorked": 158,
+            "leaveDeductions": 5,
+            "finalSalary": 57850
+        },
+        {
+            "employeeId": 6,
+            "name": "Ubaidullah Abrahams",
+            "userName": "ubaidullah.abrahams",
+            "position": "UI/UX Designer",
+            "department": "Design",
+            "hoursWorked": 168,
+            "leaveDeductions": 2,
+            "finalSalary": 64800
+        },
+        {
+            "employeeId": 7,
+            "name": "Abubakr Gamiet",
+            "userName": "abubakr.gamiet",
+             "position": "DevOps Engineer",
+            "department": "IT",
+            "hoursWorked": 175,
+            "leaveDeductions": 3,
+            "finalSalary": 71800
+        },
+        {
+            "employeeId": 8,
+            "name": "Mariam Adamms",
+            "userName": "mariam.adamms",
+            "position": "Content Strategist",
+            "department": "Marketing",
+            "hoursWorked": 160,
+            "leaveDeductions": 0,
+            "finalSalary": 56000
+        },
+        {
+            "employeeId": 9,
+            "name": "Ubdullah Aziz",
+            "userName": "ubdullah.aziz",
+            "position": "Accountant",
+            "department": "Finance",
+            "hoursWorked": 155,
+            "leaveDeductions": 5,
+            "finalSalary": 61500
+        },
+        {
+            "employeeId": 10,
+            "name": "Fatima Patel",
+            "userName": "fatima.patel",
+            "position": "Customer Support Lead",
+            "department": "Support",
+            "hoursWorked": 162,
+            "leaveDeductions": 4,
+            "finalSalary": 57750
+        }
+    ]
+}
